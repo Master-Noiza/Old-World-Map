@@ -9,14 +9,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/4.-The-Venthalyr'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
+                "popup-text": "<a ><strong>Das Imperium</strong> - Glaube und Stahl</a>",
                 "marker-group": "Druid City",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -1568,936
+                    32,184
                 ]
             }
         },
@@ -35,7 +35,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -2184,-248
+                   70,-630
                 ]
             }
         },
