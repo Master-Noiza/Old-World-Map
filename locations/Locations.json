@@ -10,7 +10,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://master-noiza.github.io/Empire-Map/'><strong>Das Imperium</strong> - Glaube und Stahl</a>",
-                "marker-group": "Druid City",
+                "marker-group": "Empire",
                 "ID": "1"
             },
             "geometry": {
